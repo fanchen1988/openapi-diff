@@ -28,7 +28,7 @@ Available on [Maven Central](https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%2
 
 # Docker
 
-Available on [Docker Hub](https://hub.docker.com/r/quen2404/openapi-diff/) as `quen2404/openapi-diff`.
+Available on [Docker Hub](https://hub.docker.com/r/fanchen1988/openapi-diff/) as `fanchen1988/openapi-diff`.
 
 ## Build the image
 
